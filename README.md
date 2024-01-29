@@ -5,13 +5,13 @@
 
 
 <p align="left"> 
-  Sou nordestino, tenho 28 anos e atuo como <strong>Desenvolvedor Front-End</strong>.
-  Graduado em Sistemas de Informação, atualmente estou empenhado em aprimorar minhas habilidades como desenvolvedor, sempre em busca de desafios e oportunidades para aprender e crescer.
+  I'm 28 years old from the Northeast of Brazil and I work as a <strong>Front-End Developer</strong>. 
+  I have a degree in Information Systems and I'm currently working on improving my skills as a developer, always looking for challenges and opportunities to learn and grow.
 </p>
 
 <div>
   <p align="left">
-    Sinta-se a vontade para entrar em contato: ⤵️
+    Feel free to contact us: ⤵️
   </p>
   <a href = "mailto:ramonsilvadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/doutoramon" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
